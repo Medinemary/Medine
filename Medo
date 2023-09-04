@@ -1,0 +1,7 @@
+echo "# Medine" > README.md
+git init
+Git README.md ekleyin
+git commit -m "ilk commit"
+git şubesi -M ana
+Git uzaktan kökeni ekle https://github.com/Medinemary/Medine.git
+git -u kökeni ana ana
